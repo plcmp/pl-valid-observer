@@ -1,6 +1,6 @@
 {
     "name": "@plcmp/pl-valid-observer",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "description": "Simple data validation component.",
     "main": "pl-valid-observer.js",
     "repository": {
